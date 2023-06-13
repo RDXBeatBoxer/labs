@@ -1,0 +1,5 @@
+﻿  lab 7.cpp
+  Time.cpp
+  Generating Code...
+C:\Users\ishak\Desktop\egor\lab 7\lab 7\Vector.h(76): warning C4715: 'Vector<Time>::operator[]': not all control paths return a value
+  lab 7.vcxproj -> C:\Users\ishak\Desktop\egor\lab 7\x64\Debug\lab 7.exe

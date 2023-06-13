@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GraphVoy.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Graph.cpp
+  main.cpp
+C:\Users\ishak\Downloads\LabsPSTU2022-main\LabsPSTU2022-main\GraphVoy\GraphVoy\Graph.h(287,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ishak\Downloads\LabsPSTU2022-main\LabsPSTU2022-main\GraphVoy\GraphVoy\Graph.h(285,33): message : while compiling class template member function 'void Graph<int>::visualizeGraph(void)'
+C:\Users\ishak\Downloads\LabsPSTU2022-main\LabsPSTU2022-main\GraphVoy\GraphVoy\main.cpp(58,25): message : see reference to function template instantiation 'void Graph<int>::visualizeGraph(void)' being compiled
+C:\Users\ishak\Downloads\LabsPSTU2022-main\LabsPSTU2022-main\GraphVoy\GraphVoy\main.cpp(34,34): message : see reference to class template instantiation 'Graph<int>' being compiled
+C:\Users\ishak\Downloads\LabsPSTU2022-main\LabsPSTU2022-main\GraphVoy\GraphVoy\Graph.h(308,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ishak\Downloads\LabsPSTU2022-main\LabsPSTU2022-main\GraphVoy\GraphVoy\Graph.h(312,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ishak\Downloads\LabsPSTU2022-main\LabsPSTU2022-main\GraphVoy\GraphVoy\Graph.h(323,60): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ishak\Downloads\LabsPSTU2022-main\LabsPSTU2022-main\GraphVoy\GraphVoy\Graph.h(337,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ishak\Downloads\LabsPSTU2022-main\LabsPSTU2022-main\GraphVoy\GraphVoy\Graph.h(338,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ishak\Downloads\LabsPSTU2022-main\LabsPSTU2022-main\GraphVoy\GraphVoy\Graph.h(345,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ishak\Downloads\LabsPSTU2022-main\LabsPSTU2022-main\GraphVoy\GraphVoy\Graph.h(46,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ishak\Downloads\LabsPSTU2022-main\LabsPSTU2022-main\GraphVoy\GraphVoy\Graph.h(46,1): message : while compiling class template member function 'int Graph<int>::getAmountVertexes(void)'
+C:\Users\ishak\Downloads\LabsPSTU2022-main\LabsPSTU2022-main\GraphVoy\GraphVoy\Graph.h(197,8): message : see reference to function template instantiation 'int Graph<int>::getAmountVertexes(void)' being compiled
+  Generating Code...
+  GraphVoy.vcxproj -> C:\Users\ishak\Downloads\LabsPSTU2022-main\LabsPSTU2022-main\GraphVoy\x64\Debug\Graph.exe

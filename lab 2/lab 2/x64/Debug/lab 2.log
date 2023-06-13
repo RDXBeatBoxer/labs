@@ -1,0 +1,5 @@
+﻿  lab 2.cpp
+C:\Users\ishak\Desktop\egor\lab 2\lab 2\lab 2.cpp(29,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Student.cpp
+  Generating Code...
+  lab 2.vcxproj -> C:\Users\ishak\Desktop\egor\lab 2\x64\Debug\lab 2.exe

@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (4 laba.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  4 lab.cpp
+C:\Users\ishak\Downloads\Laboratorki-main\Laboratorki-main\4 laba\4 laba\4 lab.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Fraction.cpp
+  Pair.cpp
+  Generating Code...
+  4 laba.vcxproj -> C:\Users\ishak\Desktop\egor\x64\Debug\4 lab.exe

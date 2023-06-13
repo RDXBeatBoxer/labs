@@ -1,0 +1,10 @@
+﻿  Dialog.cpp
+C:\Users\ishak\Desktop\egor\lab 8\lab 8\Dialog.cpp(30,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  lab 8.cpp
+  Object.cpp
+  Person.cpp
+  Student.cpp
+  Vector.cpp
+  Generating Code...
+C:\Users\ishak\Desktop\egor\lab 8\lab 8\Dialog.cpp(37): warning C4172: returning address of local variable or temporary: evt
+  lab 8.vcxproj -> C:\Users\ishak\Desktop\egor\lab 8\x64\Debug\lab 8.exe
